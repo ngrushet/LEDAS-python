@@ -7,5 +7,6 @@ As a result we expect a link to GitHub repository with python script. The script
 ##Solution:
 
 How to use:
+
 0. Download repository
 1. Run "main.py"
